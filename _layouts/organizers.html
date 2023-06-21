@@ -10,7 +10,8 @@ layout: default
 
   <div class = "post-content">
 	  <table style="border-collapse: collapse; border: none;">
-	  	{% for organizer in site.organizers %}
+		{% assign sorted = site.organizers | sort: 'sequence_id' %}
+	  	{% for organizer in sorted %}
 		    <tr style="border: none;">
 		        <td style="border: none;">
 		            <div class="col-xs-12">

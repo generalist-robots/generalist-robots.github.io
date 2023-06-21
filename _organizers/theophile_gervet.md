@@ -1,4 +1,7 @@
 ---
+
+sequence_id: 1
+
 # Name of the organizer
 name: Theophile Gervet
 

@@ -1,4 +1,7 @@
 ---
+
+sequence_id: 9
+
 # Name of the organizer
 name: Chris Atkeson
 

@@ -1,4 +1,7 @@
 ---
+
+sequence_id: 7
+
 # Name of the organizer
 name: Katerina Fragkiadaki
 

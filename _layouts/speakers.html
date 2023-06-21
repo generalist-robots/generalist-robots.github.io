@@ -10,7 +10,8 @@ layout: default
 
   <div class = "post-content">
 	  <table style="border-collapse: collapse; border: none;">
-	  	{% for speaker in site.speakers %}
+		{% assign sorted = site.speakers | sort: 'sequence_id' %}
+	  	{% for speaker in sorted %}
 		    <tr style="border: none;">
 		        <td style="border: none;">
 		            <div class="col-xs-12">
