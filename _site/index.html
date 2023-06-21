@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition | Generalist Robots - CoRL23</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Generalist Robots - CoRL23" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition","name":"Generalist Robots - CoRL23","url":"http://localhost:4000/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Generalist Robots - CoRL23" />
+</head>
+<body><header class="site-header">
+  <div class="wrapper"><!-- <a class="site-title" rel="author" href="/">Generalist Robots - CoRL23</a> --><a class="site-title" rel="author" href="/">Generalist Robots - CoRL23</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/speakers/">Speakers</a><a class="page-link" href="/schedule/">Schedule</a><a class="page-link" href="/organizers/">Organizers</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="home"><h1 class="page-heading" align="center"><p style="font-size: 1.3em">Towards Generalist Robots: <br> Learning Paradigms for Scalable Robotic Skill Acquisition</p></h1><p>We have witnessed very impressive progress in large-scale and multi-modal foundation/generative models in recent months. We believe making use of such models in a reasonable way could really enable robots to acquire diverse skills. In the recent <a href="https://arxiv.org/pdf/2305.10455.pdf">white paper</a>, we discussed how we can automate the whole pipeline for robotic skill learning, from low-level asset generation, texture generation, to high-level scene, task and reward generation. Once we obtain such a diverse suite of tasks and environments, we can offload policy training to RL of trajectory optimization to solve all the generated low-level tasks, and finally distill all the learned closed-loop policy into a unified policy model. Apart from scaling up in simulation, how to use real-world data more effectively is another promising research direction. Real-world human demonstrations can be found at scale, but typically only provides spatial trajectory information and doesn’t advise how to recover from error compounding during policy rollout.</p>
+
+<p><img src="/assets/img/banner.jpg" alt="" /></p>
+
+<p>Motivated by these observations and thoughts, this workshop seeks to discuss and compare the advantages and limitations of different paradigms for scaling up skill learning: scaling up simulation, leveraging generative models, exploiting unstructured passive human demonstration, scaling up structured demonstration collection in the real world, etc.</p>
+
+<p>We aim to discuss questions including but are not limited to:</p>
+<ul>
+  <li>Is automating task and scene generation in simulation a valid paradigm to pursue? Would there be any unexpected pitfalls?</li>
+  <li>Are today’s simulators capable of simulating diverse physical phenomena that would be encountered in real-world robotic tasks?</li>
+  <li>Is sim2real transfer a major bottleneck? What can we do to improve it?</li>
+  <li>How is learning from real-world data compared from scalable simulated data?</li>
+  <li>What can we do to make real-world data collection easier, and learning from unstructured data more effectively?</li>
+</ul>
+
+<p>We will be covering the following topics:</p>
+<ul>
+  <li>Scaling up robotic data with generative AI</li>
+  <li>Exploiting knowledge from vision and language foundation models for robotics</li>
+  <li>Scalable skill learning in simulation and sim2real transfer</li>
+  <li>Scalable real-world data collection and robot learning</li>
+  <li>Learning from internet-scale passive videos</li>
+</ul>
+
+<!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
+1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
+2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
+3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
+4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
+
+> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
+
+If you experience issues or have cool features to add, feel free to [fork this template](). -->
+
+
+
+  </div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <!-- <p class="feed-subscribe">
+          <a href="/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p> -->
+      </div>
+      <div class="footer-col">
+        <p></p>
+        <p></p>
+        
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+</div>
+
+    <div class="footer-col" align="center">
+      <a href="https://github.com/krrish94/sniffle-workshop">Template</a>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
