@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: "Towards Generalist Robots: <br> Learning Paradigms for Scalable Robotic Skill Acquisition"
+title: "Towards Generalist Robots: <br> Learning Paradigms for Scalable Skill Acquisition"
 list_title: Home
 layout: home
 ---
