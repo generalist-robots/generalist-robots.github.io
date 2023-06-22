@@ -23,4 +23,5 @@ img: abhinav_gupta.jpeg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-TBU.
+Learning from Observational Data
+

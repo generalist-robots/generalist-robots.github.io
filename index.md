@@ -15,18 +15,21 @@ We have witnessed very impressive progress in large-scale and multi-modal founda
 Motivated by these observations and thoughts, this workshop seeks to discuss and compare the advantages and limitations of different paradigms for scaling up skill learning: scaling up simulation, leveraging generative models, exploiting unstructured passive human demonstration, scaling up structured demonstration collection in the real world, etc.
 
 We aim to discuss questions including but are not limited to:
-- Is automating task and scene generation in simulation a valid paradigm to pursue? Would there be any unexpected pitfalls?
-- Are today's simulators capable of simulating diverse physical phenomena that would be encountered in real-world robotic tasks?
-- Is sim2real transfer a major bottleneck? What can we do to improve it? 
-- How is learning from real-world data compared from scalable simulated data? 
-- What can we do to make real-world data collection easier, and learning from unstructured data more effectively?
+- Is automating task and scene generation in simulation a valid paradigm to pursue? 
+- Are today's simulators capable of simulating diverse physical phenomena that would be encountered in real-world robotic tasks? 
+- Is sim2real transfer a major bottleneck? What are the potential solutions to it? 
+- What are the pros and cons of collecting learning from real-world data compared to simulated data? 
+- How to make collecting and learning from real-world data more efficient and effective? 
+- Is there a way to combine the strengths of both simulated and real-world data for learning generalist robots?
+
+
 
 We will be covering the following topics:
 - Scaling up robotic data with generative AI
 - Exploiting knowledge from vision and language foundation models for robotics
-- Scalable skill learning in simulation and sim2real transfer
+- Scalable skill learning in simulation and sim-to-real transfer
 - Scalable real-world data collection and robot learning
-- Learning from internet-scale passive videos
+- Learning robotic foundation models by leveraging internet-scale data
 
 
 <!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:

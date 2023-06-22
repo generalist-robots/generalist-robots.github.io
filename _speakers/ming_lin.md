@@ -23,4 +23,4 @@ img: ming_lin.jpeg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-TBU.
+Dynamics-Aware Learning: from Simulated Reality to Physical World

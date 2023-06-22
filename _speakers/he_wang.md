@@ -1,27 +1,27 @@
 ---
 
-sequence_id: 5
+sequence_id: 6
 
 # Name of the speaker
-name: Chuang Gan
+name: He Wang
 
 # Link to the speaker's webpage
-webpage: https://people.csail.mit.edu/ganchuang/
+webpage: https://hughw19.github.io/
 
 # Primary affiliation of the speaker
-affil: MIT
+affil: Peking University
 # Link to the speaker's primary affiliation
-affil_link: https://www.csail.mit.edu/
+affil_link: https://english.pku.edu.cn/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: chuang_gan.jpeg
+img: he_wang.jpeg
 
 # (Optional) Secondary affiliation of the speaker
-affil2: MIT-IBM Watson AI Lab
+# affil2: MIT-IBM Watson AI Lab
 # Link to the speaker's secondary affiliation 
-affil2_link: https://mitibmwatsonailab.mit.edu/
+# affil2_link: https://mitibmwatsonailab.mit.edu/
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-When Large Language Models Meet Physics Simulation
+Learning Generalizable Dexterous Grasping Policy from Point Clouds

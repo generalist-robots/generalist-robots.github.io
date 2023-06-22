@@ -24,4 +24,4 @@ img: sergey_levine.png
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Large-Scale Data-Driven Robotic Learning.
+Large-Scale Data-Driven Robotic Learning

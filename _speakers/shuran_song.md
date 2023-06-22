@@ -23,4 +23,4 @@ img: shuran_song.jpeg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition.
+Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition
