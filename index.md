@@ -14,7 +14,7 @@ We have witnessed very impressive progress in large-scale and multi-modal founda
 
 Motivated by these observations and thoughts, this workshop seeks to discuss and compare the advantages and limitations of different paradigms for scaling up skill learning: scaling up simulation, leveraging generative models, exploiting unstructured passive human demonstration, scaling up structured demonstration collection in the real world, etc.
 
-We aim to discuss questions including but are not limited to:
+We aim to discuss questions including, but not limited to:
 - Is automating task and scene generation in simulation a valid paradigm to pursue? 
 - Are today's simulators capable of simulating diverse physical phenomena that would be encountered in real-world robotic tasks? 
 - Is sim2real transfer a major bottleneck? What are the potential solutions to it? 
