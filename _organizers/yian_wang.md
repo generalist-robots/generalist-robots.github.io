@@ -14,7 +14,7 @@ affil: UMass Amherst
 affil_link: https://www.umass.edu/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-# img: 
+img: yian_wang.JPG
 
 # # Secondary affiliation
 # affil2: BuzzFizz Corp
