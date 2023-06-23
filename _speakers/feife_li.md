@@ -24,4 +24,4 @@ img: feifei_li.jpeg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-TBU
+Large-Scale Benchmark for Embodied AI in Everyday Activities
