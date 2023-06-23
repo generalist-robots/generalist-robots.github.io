@@ -24,4 +24,4 @@ affil2_link: https://research.facebook.com/ai/
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-TBU.
+Combining Internet and Embodied data for Robotics
