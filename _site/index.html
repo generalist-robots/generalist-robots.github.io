@@ -3,23 +3,23 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition | Generalist Robots - CoRL23</title>
+<title>Towards Generalist Robots: Learning Paradigms for Scalable Skill Acquisition | Towards Generalist Robots - CoRL23</title>
 <meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition" />
+<meta property="og:title" content="Towards Generalist Robots: Learning Paradigms for Scalable Skill Acquisition" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="http://localhost:4000/" />
 <meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Generalist Robots - CoRL23" />
+<meta property="og:site_name" content="Towards Generalist Robots - CoRL23" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition" />
+<meta property="twitter:title" content="Towards Generalist Robots: Learning Paradigms for Scalable Skill Acquisition" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Towards Generalist Robots: Learning Paradigms for Scalable Robotic Skill Acquisition","name":"Generalist Robots - CoRL23","url":"http://localhost:4000/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Towards Generalist Robots: Learning Paradigms for Scalable Skill Acquisition","name":"Towards Generalist Robots - CoRL23","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Generalist Robots - CoRL23" />
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Towards Generalist Robots - CoRL23" />
 </head>
 <body><header class="site-header">
-  <div class="wrapper"><!-- <a class="site-title" rel="author" href="/">Generalist Robots - CoRL23</a> --><a class="site-title" rel="author" href="/">Generalist Robots - CoRL23</a><nav class="site-nav">
+  <div class="wrapper"><!-- <a class="site-title" rel="author" href="/">Towards Generalist Robots - CoRL23</a> --><a class="site-title" rel="author" href="/">Towards Generalist Robots - CoRL23</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -29,33 +29,34 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/speakers/">Speakers</a><a class="page-link" href="/schedule/">Schedule</a><a class="page-link" href="/organizers/">Organizers</a></div>
+        <div class="trigger"><a class="page-link" href="/">Home</a><a class="page-link" href="/speakers/">(Expected) Speakers</a><a class="page-link" href="/schedule/">Schedule</a><a class="page-link" href="/organizers/">Organizers</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home"><h1 class="page-heading" align="center"><p style="font-size: 1.3em">Towards Generalist Robots: <br> Learning Paradigms for Scalable Robotic Skill Acquisition</p></h1><p>We have witnessed very impressive progress in large-scale and multi-modal foundation/generative models in recent months. We believe making use of such models in a reasonable way could really enable robots to acquire diverse skills. In the recent <a href="https://arxiv.org/pdf/2305.10455.pdf">white paper</a>, we discussed how we can automate the whole pipeline for robotic skill learning, from low-level asset generation, texture generation, to high-level scene, task and reward generation. Once we obtain such a diverse suite of tasks and environments, we can offload policy training to RL of trajectory optimization to solve all the generated low-level tasks, and finally distill all the learned closed-loop policy into a unified policy model. Apart from scaling up in simulation, how to use real-world data more effectively is another promising research direction. Real-world human demonstrations can be found at scale, but typically only provides spatial trajectory information and doesn’t advise how to recover from error compounding during policy rollout.</p>
+        <div class="home"><h1 class="page-heading" align="center"><p style="font-size: 1.3em">Towards Generalist Robots: <br> Learning Paradigms for Scalable Skill Acquisition</p></h1><p>We have witnessed very impressive progress in large-scale and multi-modal foundation/generative models in recent months. We believe making use of such models in a reasonable way could really enable robots to acquire diverse skills. In the recent <a href="https://arxiv.org/pdf/2305.10455.pdf">white paper</a>, we discussed how we can automate the whole pipeline for robotic skill learning, from low-level asset generation, texture generation, to high-level scene, task and reward generation. Once we obtain such a diverse suite of tasks and environments, we can offload policy training to RL of trajectory optimization to solve all the generated low-level tasks, and finally distill all the learned closed-loop policy into a unified policy model. Apart from scaling up in simulation, how to use real-world data more effectively is another promising research direction. Real-world human demonstrations can be found at scale, but typically only provides spatial trajectory information and doesn’t advise how to recover from error compounding during policy rollout.</p>
 
 <p><img src="/assets/img/banner.jpg" alt="" /></p>
 
 <p>Motivated by these observations and thoughts, this workshop seeks to discuss and compare the advantages and limitations of different paradigms for scaling up skill learning: scaling up simulation, leveraging generative models, exploiting unstructured passive human demonstration, scaling up structured demonstration collection in the real world, etc.</p>
 
-<p>We aim to discuss questions including but are not limited to:</p>
+<p>We aim to discuss questions including, but not limited to:</p>
 <ul>
-  <li>Is automating task and scene generation in simulation a valid paradigm to pursue? Would there be any unexpected pitfalls?</li>
+  <li>Is automating task and scene generation in simulation a valid paradigm to pursue?</li>
   <li>Are today’s simulators capable of simulating diverse physical phenomena that would be encountered in real-world robotic tasks?</li>
-  <li>Is sim2real transfer a major bottleneck? What can we do to improve it?</li>
-  <li>How is learning from real-world data compared from scalable simulated data?</li>
-  <li>What can we do to make real-world data collection easier, and learning from unstructured data more effectively?</li>
+  <li>Is sim2real transfer a major bottleneck? What are the potential solutions to it?</li>
+  <li>What are the pros and cons of collecting learning from real-world data compared to simulated data?</li>
+  <li>How to make collecting and learning from real-world data more efficient and effective?</li>
+  <li>Is there a way to combine the strengths of both simulated and real-world data for learning generalist robots?</li>
 </ul>
 
 <p>We will be covering the following topics:</p>
 <ul>
   <li>Scaling up robotic data with generative AI</li>
   <li>Exploiting knowledge from vision and language foundation models for robotics</li>
-  <li>Scalable skill learning in simulation and sim2real transfer</li>
+  <li>Scalable skill learning in simulation and sim-to-real transfer</li>
   <li>Scalable real-world data collection and robot learning</li>
-  <li>Learning from internet-scale passive videos</li>
+  <li>Learning robotic foundation models by leveraging internet-scale data</li>
 </ul>
 
 <!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
