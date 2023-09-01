@@ -1,5 +1,5 @@
 ---
 layout: speakers
-title: (Expected) Speakers
+title: Speakers
 permalink: /speakers/
 ---
