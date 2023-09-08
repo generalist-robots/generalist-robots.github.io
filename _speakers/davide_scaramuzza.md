@@ -8,7 +8,7 @@ name: Davide Scaramuzza
 webpage: https://rpg.ifi.uzh.ch/people_scaramuzza.html
 
 # Primary affiliation of the speaker
-affil: UZH
+affil: University of Zurich
 # Link to the speaker's primary affiliation
 affil_link: https://rpg.ifi.uzh.ch/index.html
 

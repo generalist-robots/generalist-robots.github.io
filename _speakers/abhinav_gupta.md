@@ -8,7 +8,7 @@ name: Abhinav Gupta
 webpage: http://www.cs.cmu.edu/~abhinavg/
 
 # Primary affiliation of the speaker
-affil: CMU
+affil: Carnegie Mellon University
 # Link to the speaker's primary affiliation
 affil_link: https://www.ri.cmu.edu/ri-faculty/abhinav-gupta/
 
