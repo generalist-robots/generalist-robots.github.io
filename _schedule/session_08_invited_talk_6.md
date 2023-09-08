@@ -1,6 +1,6 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 9
+sequence_id: 8
 
 # Speaker name
 speaker: Speaker 6
@@ -9,5 +9,5 @@ speaker: Speaker 6
 title: "Invited Talk 6: Title TBU <br> (25 min talk + 5 min Q&A)"
 
 # Time of the event
-time: 1330 - 1400
+time: 12:00 - 12:30
 ---

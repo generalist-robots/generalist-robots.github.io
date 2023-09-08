@@ -9,5 +9,5 @@ speaker: Speaker 4
 title: "Invited Talk 4: Title TBU <br> (25 min talk + 5 min Q&A)"
 
 # Time of the event
-time: 1130 - 1200
+time: 11:00 - 11:30
 ---

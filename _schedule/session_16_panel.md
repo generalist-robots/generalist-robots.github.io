@@ -9,5 +9,5 @@ sequence_id: 16
 wide_title: "Panel Discussion (5 min intro + 55 min discussion)"
 
 # Time of the event
-time: 1650 - 1750
+time: 16:30 - 17:30
 ---

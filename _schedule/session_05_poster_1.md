@@ -9,5 +9,5 @@ sequence_id: 5
 wide_title: "Poster Session 1 & Coffee Break"
 
 # Time of the event
-time: 1100 - 1130
+time: 10:30 - 11:00
 ---

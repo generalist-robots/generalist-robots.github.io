@@ -9,5 +9,5 @@ sequence_id: 4
 wide_title: "Spotlight Session 1 (5 min spotlight; 4 in total)"
 
 # Time of the event
-time: 1040 - 1100
+time: 10:10 - 10:30
 ---

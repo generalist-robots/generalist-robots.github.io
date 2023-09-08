@@ -9,5 +9,5 @@ sequence_id: 0
 wide_title: Opening Remarks
 
 # Time of the event
-time: 0900 - 0910
+time: 08:30 - 08:40
 ---
