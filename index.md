@@ -58,7 +58,7 @@ We invite submissions including but not limited to the following topics:
 
 We expect submissions with 4 - 8 pages for the main content, with no limit on references/appendices. Submissions are suggested to use the [CoRL template](https://drive.google.com/file/d/1Ksqw_9OMiCKEiGmoaqn3QCuqcRpgtZ5a/view) and must be anonymized. All papers will be peer-reviewed in a double-blind manner. We welcome both unpublished original contributions and recently published relevant works. Accepted papers will be presented in the form of posters, with several papers being selected for spotlight sessions. 
 
-If you have any questions, please contact us at <span style="color:blue">generalistrobots@gmail.com</span>.
+If you have any questions, please contact us at: generalistrobots@gmail.com.
 
 &nbsp;
 &nbsp;
