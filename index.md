@@ -71,61 +71,61 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/shuran_song.jpeg" width="200"/>
-        <figcaption><b>Shuran Song</b><br>Columbia University</figcaption>
+        <figcaption><b><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song</a></b><br>Columbia University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/sergey_levine.png" width="200" /> 
-        <figcaption><b>Sergey Levine</b><br>UC Berkeley</figcaption>
+        <figcaption><b><a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a></b><br>UC Berkeley</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/abhinav_gupta.jpeg" width="200" />
-        <figcaption><b>Abhinav Gupta</b><br>CMU</figcaption>
+        <figcaption><b><a href="http://www.cs.cmu.edu/~abhinavg/">Abhinav Gupta</a></b><br>CMU</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/dhruv_batra.jpeg" width="200" />
-        <figcaption><b>Dhruv Batra</b><br>Georgia Tech & Meta AI</figcaption>
+        <figcaption><b><a href="https://faculty.cc.gatech.edu/~dbatra/">Dhruv Batra</a></b><br>Georgia Tech & Meta AI</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/ming_lin.jpeg" width="200" />
-        <figcaption><b>Ming C. Lin</b><br>University of Maryland, College Park</figcaption>
+        <figcaption><b><a href="https://www.cs.umd.edu/~lin/">Ming C. Lin</a></b><br>University of Maryland, College Park</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/karen_liu.png" width="200" />
-        <figcaption><b>Karen Liu</b><br>Stanford University</figcaption>
+        <figcaption><b><a href="https://profiles.stanford.edu/c-karen-liu">Karen Liu</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/chuang_gan.jpeg" width="200" />
-        <figcaption><b>Chuang Gan</b><br>UMass Amherst & MIT-IBM AI Lab</figcaption>
+        <figcaption><b><a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a></b><br>UMass Amherst & MIT-IBM AI Lab</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/he_wang.jpeg" width="200" />
-        <figcaption><b>He Wang</b><br>Peking University</figcaption>
+        <figcaption><b><a href="https://hughw19.github.io/">He Wang</a></b><br>Peking University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/dieter.jpg" width="200" />
-        <figcaption><b>Dieter Fox</b><br>University of Washington & Nvidia</figcaption>
+        <figcaption><b><a href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a></b><br>University of Washington & Nvidia</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/davide_scaramuzza.jpeg" width="200" />
-        <figcaption><b>Davide Scaramuzza</b><br>University of Zurich</figcaption>
+        <figcaption><b><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a></b><br>University of Zurich</figcaption>
         </figure>
     </div>
 </div>
@@ -141,73 +141,73 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/zhou_xian.webp" width="200"/>
-        <figcaption><b>Zhou Xian</b><br>CMU</figcaption>
+        <figcaption><b><a href="https://www.zhou-xian.com/">Zhou Xian</a></b><br>CMU</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/theophile_gervet.jpeg" width="200" /> 
-        <figcaption><b>Theophile Gervet</b><br>CMU</figcaption>
+        <figcaption><b><a href="https://theophilegervet.github.io/">Theophile Gervet</a></b><br>CMU</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/zhenjia_xu.jpeg" width="200" />
-        <figcaption><b>Zhenjia Xu</b><br>Columbia University</figcaption>
+        <figcaption><b><a href="https://www.zhenjiaxu.com/">Zhenjia Xu</a></b><br>Columbia University</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/yi_ling_qiao.jpeg" width="200" />
-        <figcaption><b>Yi-Ling Qiao</b><br>UMD, College Park</figcaption>
+        <figcaption><b><a href="https://ylqiao.net/">Yi-Ling Qiao</a></b><br>UMD, College Park</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/tsun_hsuan_wang.jpeg" width="200" />
-        <figcaption><b>Tsun-Hsuan Wang</b><br>MIT</figcaption>
+        <figcaption><b><a href="https://zswang666.github.io/">Tsun-Hsuan Wang</a></b><br>MIT</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/yian_wang.JPG" width="200" />
-        <figcaption><b>Yian Wang</b><br>UMass Amherst</figcaption>
+        <figcaption><b><a href="https://generalist-robots.github.io/">Yian Wang</a></b><br>UMass Amherst</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/chen_wang.jpeg" width="200" />
-        <figcaption><b>Chen Wang</b><br>Stanford University</figcaption>
+        <figcaption><b><a href="https://www.chenwangjeremy.net/">Chen Wang</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/katerina_fragkiadaki.png" width="200" />
-        <figcaption><b>Katerina Fragkiadaki</b><br>CMU</figcaption>
+        <figcaption><b><a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a></b><br>CMU</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/david_held.png" width="200" />
-        <figcaption><b>David Held</b><br>CMU</figcaption>
+        <figcaption><b><a href="https://davheld.github.io/">David Held</a></b><br>CMU</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/chris_atkeson.jpeg" width="200" />
-        <figcaption><b>Chris Atkeson</b><br>CMU</figcaption>
+        <figcaption><b><a href="http://www.cs.cmu.edu/~cga/">Chris Atkeson</a></b><br>CMU</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/josh_tenenbaum.jpeg" width="200" />
-        <figcaption><b>Josh Tenenbaum</b><br>MIT</figcaption>
+        <figcaption><b><a href="http://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a></b><br>MIT</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
         <img src="assets/img/organizers/daniela_rus.jpeg" width="200" />
-        <figcaption><b>Daniela Rus</b><br>MIT</figcaption>
+        <figcaption><b><a href="https://danielarus.csail.mit.edu/">Daniela Rus</a></b><br>MIT</figcaption>
         </figure>
     </div>
 </div>
