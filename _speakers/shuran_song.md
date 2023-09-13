@@ -5,10 +5,10 @@ sequence_id: 0
 name: Shuran Song
 
 # Link to the speaker's webpage
-webpage: https://www.cs.columbia.edu/~shurans/
+webpage: https://shurans.github.io/
 
 # Primary affiliation of the speaker
-affil: Columbia University
+affil: Stanford University
 # Link to the speaker's primary affiliation
 affil_link: https://cair.cs.columbia.edu/
 

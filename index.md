@@ -71,7 +71,7 @@ If you have any questions, please contact us at: generalistrobots@gmail.com.
     <div class="grid-item">
         <figure>
         <img src="assets/img/speakers/shuran_song.jpeg" width="200"/>
-        <figcaption><b><a href="https://www.cs.columbia.edu/~shurans/">Shuran Song</a></b><br>Columbia University</figcaption>
+        <figcaption><b><a href="https://shurans.github.io/">Shuran Song</a></b><br>Stanford University</figcaption>
         </figure>
     </div>
     <div class="grid-item">
