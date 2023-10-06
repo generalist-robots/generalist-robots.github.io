@@ -48,7 +48,7 @@ We invite submissions including but not limited to the following topics:
 **Important Dates**
 - **Paper submission open**: 2023/09/07
 
-- **Paper submission deadline**: 2023/10/06
+- **Paper submission deadline**: 2023/10/06 (Extended to 2023/10/08 AoE)
 
 - **Notification of acceptance**: 2023/10/16
 
