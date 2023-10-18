@@ -50,7 +50,7 @@ We invite submissions including but not limited to the following topics:
 
 - **Paper submission deadline**: 2023/10/06 (Extended to 2023/10/08 AoE)
 
-- **Notification of acceptance**: 2023/10/16
+- **Notification of acceptance**: 2023/10/20
 
 - **Workshop date**: 2023/11/06
 
