@@ -24,4 +24,5 @@ img: shuran_song.jpeg
 <!-- Whatever you write below will show up as the speaker's bio -->
 
 Robot Skill Acquisition: Three Workflows and Path Forward
+
 (present together with <a href="https://www.cs.columbia.edu/~huy/">Huy Ha</a>)
