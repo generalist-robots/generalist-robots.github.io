@@ -6,7 +6,7 @@ sequence_id: 4
 # speaker: Paper Authors
 
 # Title of the event
-wide_title: "Spotlight Session 1 5 min spotlight; 4 in total)"
+wide_title: "Spotlight Session 1 <br> 5 min spotlight; 4 in total)"
 "Spotlight Session 1 (5 min spotlight; 4 in total)"
 
 # Time of the event
