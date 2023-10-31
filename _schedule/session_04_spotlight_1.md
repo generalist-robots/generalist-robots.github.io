@@ -6,7 +6,8 @@ sequence_id: 4
 # speaker: Paper Authors
 
 # Title of the event
-wide_title: "Spotlight Session 1 <br> 5 min spotlight; 4 in total)"
+wide_title: "A Data Generation System for Scalable Robot Learning using Human Demonstrations
+<br> Extreme Parkour with Legged Robots <br> Constructing interactive Realistic Scenes from Real Images via Simulation and Generative Modeling <br> Low-Cost Exoskeletons for Learning Whole-Arm Manipulation in the Wild"
 
 # Time of the event
 time: 10:10 - 10:30

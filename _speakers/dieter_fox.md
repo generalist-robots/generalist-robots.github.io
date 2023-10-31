@@ -24,4 +24,4 @@ img: dieter.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Training Manipulation Skills in Simulations
+Training Manipulation Skills in Simulation
