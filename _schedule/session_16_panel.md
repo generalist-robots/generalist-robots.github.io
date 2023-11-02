@@ -6,7 +6,7 @@ sequence_id: 16
 # speaker: Speaker 10
 
 # Title of the event
-wide_title: "Panel Discussion (5 min intro + 55 min discussion)"
+wide_title: "Panel Discussion"
 
 # Time of the event
 time: 16:30 - 17:30

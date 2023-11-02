@@ -3,10 +3,10 @@
 sequence_id: 13
 
 # Speaker name
-speaker: Speaker 10
+speaker: Dieter Fox
 
 # Title of the event
-title: "Invited Talk 10: Title TBU <br> (25 min talk + 5 min Q&A)"
+title: "Training Manipulation Skills in Simulation"
 
 # Time of the event
 time: 15:00 - 15:30

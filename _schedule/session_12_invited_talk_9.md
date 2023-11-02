@@ -3,10 +3,10 @@
 sequence_id: 12
 
 # Speaker name
-speaker: Speaker 9
+speaker: Abhinav Gupta
 
 # Title of the event
-title: "Invited Talk 9: Title TBU <br> (25 min talk + 5 min Q&A)"
+title: "Learning from Observational Data (TBU)"
 
 # Time of the event
 time: 14:30 - 15:00

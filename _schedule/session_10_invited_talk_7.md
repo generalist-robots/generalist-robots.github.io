@@ -3,10 +3,10 @@
 sequence_id: 10
 
 # Speaker name
-speaker: Speaker 7
+speaker: Sergey Levine
 
 # Title of the event
-title: "Invited Talk 7: Title TBU <br> (25 min talk + 5 min Q&A)"
+title: "Large-Scale Data-Driven Robotic Learning"
 
 # Time of the event
 time: 13:30 - 14:00

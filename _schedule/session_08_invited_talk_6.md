@@ -3,10 +3,10 @@
 sequence_id: 8
 
 # Speaker name
-speaker: Speaker 6
+speaker: Shuran Song & Huy Ha
 
 # Title of the event
-title: "Invited Talk 6: Title TBU <br> (25 min talk + 5 min Q&A)"
+title: "Robot Skill Acquisition: Three Workflows and Path Forward"
 
 # Time of the event
 time: 12:00 - 12:30

@@ -3,10 +3,10 @@
 sequence_id: 7
 
 # Speaker name
-speaker: Speaker 5
+speaker: Karen Liu
 
 # Title of the event
-title: "Invited Talk 5: Title TBU <br> (25 min talk + 5 min Q&A)"
+title: "Large-scale and Diverse Human Demonstrations for Training Generalist Robots"
 
 # Time of the event
 time: 11:30 - 12:00
