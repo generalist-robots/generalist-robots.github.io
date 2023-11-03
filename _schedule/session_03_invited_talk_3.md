@@ -6,7 +6,7 @@ sequence_id: 3
 speaker: Dhruv Batra
 
 # Title of the event
-title: "Combining Internet and Embodied data for Robotics"
+title: "Robot Skill Acquisition: Where do things stand in simulation & sim2real land?"
 
 # Time of the event
 time: 09:40 - 10:10

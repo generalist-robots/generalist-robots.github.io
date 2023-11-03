@@ -23,5 +23,5 @@ img: davide_scaramuzza.jpeg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-TBU
+Learning to Fly in the Wild (TBU)
 

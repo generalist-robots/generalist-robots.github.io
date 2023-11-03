@@ -24,4 +24,4 @@ affil2_link: https://research.facebook.com/ai/
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Combining Internet and Embodied data for Robotics
+Robot Skill Acquisition: Where do things stand in simulation & sim2real land?
