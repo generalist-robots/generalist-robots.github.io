@@ -10,7 +10,7 @@ layout: home
 <p style="text-align: center;"><font size="5">Conference on Robot Learning 2023, Atlanta, USA</font></p>
 <p style="text-align: center;"><font size="5">Monday, Nov 6th, 2023</font></p>
 <p style="text-align: center;"><font size="5">Location: Sequoia 1</font></p>
-<p style="text-align: center;"><font size="5">Zoom: https://cmu.zoom.us/j/6037623931</font></p>
+<p style="text-align: center;"><font size="3">Zoom: <a href="https://cmu.zoom.us/j/6037623931">https://cmu.zoom.us/j/6037623931</a></font></p>
 
 We have witnessed very impressive progress in large-scale and multi-modal foundation/generative models in recent months. We believe making use of such models in a reasonable way could really enable robots to acquire diverse skills. In the recent <a href="https://arxiv.org/pdf/2305.10455.pdf">white paper</a>, we discussed how we can automate the whole pipeline for robotic skill learning, from low-level asset generation, texture generation, to high-level scene, task and reward generation. Once we obtain such a diverse suite of tasks and environments, we can offload policy training to RL of trajectory optimization to solve all the generated low-level tasks, and finally distill all the learned closed-loop policy into a unified policy model. Apart from scaling up in simulation, how to use real-world data more effectively is another promising research direction. Real-world human demonstrations can be found at scale, but typically only provides spatial trajectory information and doesn't advise how to recover from error compounding during policy rollout.
 
