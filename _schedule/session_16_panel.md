@@ -9,5 +9,5 @@ sequence_id: 16
 wide_title: "Panel Discussion with Karen Liu, Ming Lin, David Held and He Wang, moderated by Theophile Gervet"
 
 # Time of the event
-time: 16:30 - 17:30
+time: 16:40 - 17:30
 ---
